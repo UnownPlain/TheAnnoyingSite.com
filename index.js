@@ -69,28 +69,28 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'albundy.mp4',
-  'badger.mp4',
-  'cat.mp4',
-  'hasan.mp4',
-  'heman.mp4',
-  'jozin.mp4',
-  'nyan.mp4',
-  'rickroll.mp4',
-  'space.mp4',
-  'trolol.mp4'
+  './static/albundy.mp4',
+  './static/badger.mp4',
+  './static/cat.mp4',
+  './static/hasan.mp4',
+  './static/heman.mp4',
+  './static/jozin.mp4',
+  './static/nyan.mp4',
+  './static/rickroll.mp4',
+  './static/space.mp4',
+  './static/trolol.mp4'
 ]
 
 const FILE_DOWNLOADS = [
-  'cat-blue-eyes.jpg',
-  'cat-ceiling.jpg',
-  'cat-crosseyes.jpg',
-  'cat-cute.jpg',
-  'cat-hover.jpg',
-  'cat-marshmellows.jpg',
-  'cat-small-face.jpg',
-  'cat-smirk.jpg',
-  'patreon.png'
+  './static/cat-blue-eyes.jpg',
+  './static/cat-ceiling.jpg',
+  './static/cat-crosseyes.jpg',
+  './static/cat-cute.jpg',
+  './static/cat-hover.jpg',
+  './static/cat-marshmellows.jpg',
+  './static/cat-small-face.jpg',
+  './static/cat-smirk.jpg',
+  './static/patreon.png'
 ]
 
 const PHRASES = [
